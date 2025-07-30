@@ -1,6 +1,6 @@
 # Synthetic-Control-Approach-Wildfire-Risk
 
-![Company Logo](https://github.com/BreeMad/Alcohol-and-Hard-Drug-Interaction-Replication-Study/blob/main/alcohol.jpg)
+![Company Logo](https://github.com/BreeMad/Synthetic-Control-Approach-Wildfire-Risk/blob/main/wildfire.jpg)
 
 Photo by <a href="https://unsplash.com/@venturecreative?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Caleb Cook</a> on <a href="https://unsplash.com/photos/silhouette-of-2-person-standing-on-grass-field-during-sunset-syuox8fipX4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
